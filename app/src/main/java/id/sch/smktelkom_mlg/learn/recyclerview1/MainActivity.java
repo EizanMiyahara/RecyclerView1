@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         filData();
     }
 
+
     private void filData() {
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.places);
